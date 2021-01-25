@@ -1,0 +1,1 @@
+gcc -Werror -Wall -std=c11 hex_byte.c -o hex_byte
