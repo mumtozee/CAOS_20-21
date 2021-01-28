@@ -1,4 +1,4 @@
 # caos_20-21
-Курс "Архитектуры Компьютеров и Операционные Системы" МФТИ ФПМИ.Индустрия 2020-21
+Soltuions for "Computer Architecture and Operating Systems" course assignments. MIPT PSAMI 2020-21
 <br>
-<em>WARNING:</em>автор кода не несет ответственность за серьезные ошибки системы, возникающие при сборке решений из данного репозитория. Корректность решений проверена на ОС Linux Mint 20 и на платформе ejudge. При копировании кода используйте его на свой риск.
+<em>WARNING: </em>the author is not responsible for possible dangerous consequences of building and running the code from this repository. The solutions were tested on Linux Mint 20 and ejudge, therefore execute the solutions at your own risk.
